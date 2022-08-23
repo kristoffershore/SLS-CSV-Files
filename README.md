@@ -1,1 +1,1 @@
-This repository is simply for hosting csv files in order to upload them to Prestashop's import module.
+This repository is just a place to host .csv files, in order to get URLs of raw .csv data to upload to Prestashop's import module.
